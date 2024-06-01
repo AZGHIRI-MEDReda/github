@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="645cf289-be9e-450e-abf4-520d1ece658d" name="Changes" comment="" />
+    <list default="true" id="645cf289-be9e-450e-abf4-520d1ece658d" name="Changes" comment="fisrt project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,9 +49,20 @@
       <option name="presentableId" value="Default" />
       <updated>1717261635539</updated>
     </task>
+    <task id="LOCAL-00001" summary="fisrt project">
+      <option name="closed" value="true" />
+      <created>1717283502180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717283502180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="fisrt project" />
+    <option name="LAST_COMMIT_MESSAGE" value="fisrt project" />
   </component>
 </project>
